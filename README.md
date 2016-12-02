@@ -14,3 +14,4 @@ https://github.com/Giphy/GiphyAPI
 
 Create a new section that allows a user to search for GIFs using the [Search Endpoint](https://github.com/Giphy/GiphyAPI#search-endpoint)
 # JankyGiphyOOP
+Here is some dirty example code.
